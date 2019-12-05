@@ -47,10 +47,6 @@ span {
     color: black;
 }
 
-#stripe>span {
-    color: black;
-}
-
 .selected {
     color: white;
     background: steelblue;
@@ -76,6 +72,8 @@ button {
     width: 20%;
     font-weight: 700;
     font-size: inherit;
+    text-transform: uppercase;
+    color: black;
 }
 
 button:hover {
