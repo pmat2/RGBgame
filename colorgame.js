@@ -50,7 +50,6 @@ function setupButtons() {
     }
 };
 
-
 function reset() {
     colors = generateRandomColors(circlesNum);
     pickedColor = randomColor();
